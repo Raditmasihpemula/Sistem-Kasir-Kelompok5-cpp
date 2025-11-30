@@ -82,21 +82,14 @@ Jalankan Aplikasi
 Catatan: Database toko.db akan otomatis dibuat saat program pertama kali dijalankan.
 
 👥 Anggota Kelompok
+Nama Mahasiswa(NIM)
 
-No
-
-Nama Mahasiswa
-
-NIM
-
-Peran / Fitur
-
-1. Attar Naswan 
-2. Daffa Issanaputra
-3. Deni Nawal Alfian
-4. Nicholas Maximillian Adhi Laksono
-5. Putra Nur Pratama
-6. Radit Restu Juniarko
+1. Attar Naswan ()
+2. Daffa Issanaputra ()
+3. Deni Nawal Alfian ()
+4. Nicholas Maximillian Adhi Laksono ()
+5. Putra Nur Pratama ()
+6. Radit Restu Juniarko (2507421015)
 
 🤝 Panduan Kontribusi (Git Workflow)
 
