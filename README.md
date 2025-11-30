@@ -91,53 +91,12 @@ NIM
 
 Peran / Fitur
 
-1.
-
-[Nama]
-
-[NIM]
-
-Ketua / Input Transaksi
-
-2.
-
-[Nama Teman]
-
-[NIM]
-
-Hitung Total
-
-3.
-
-[Nama Teman]
-
-[NIM]
-
-Logika Diskon
-
-4.
-
-[Nama Teman]
-
-[NIM]
-
-Cetak & Simpan DB
-
-5.
-
-[Nama Teman]
-
-[NIM]
-
-Laporan Penjualan
-
-6.
-
-[Nama Teman]
-
-[NIM]
-
-Analisa Produk Terlaris
+1. Attar Naswan 
+2. Daffa Issanaputra
+3. Deni Nawal Alfian
+4. Nicholas Maximillian Adhi Laksono
+5. Putra Nur Pratama
+6. Radit Restu Juniarko
 
 🤝 Panduan Kontribusi (Git Workflow)
 
