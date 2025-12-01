@@ -54,7 +54,7 @@ void inisialisasiDatabase() {
         sqlite3_free(messageError);
     } else {
         // Data Dummy untuk tes awal
-        string dummy = "INSERT OR IGNORE INTO PRODUK (ID, NAMA, HARGA) VALUES (1, 'Kopi Susu', 15000), (2, 'Roti Bakar', 12000), (3, 'Indomie Goreng', 10000);";
+        string dummy = "INSERT OR IGNORE INTO PRODUK (ID, NAMA, HARGA) VALUES (1, 'Kopi Susu', 15000), (2, 'Roti Bakar', 12000), (3, 'Indomie Goreng', 10000), (4, 'Rokok', 25000);";
         sqlite3_exec(DB, dummy.c_str(), NULL, 0, NULL);
     }
 }
